@@ -1,9 +1,8 @@
 Architecture starter template (multi-module)
 ==================
 
-This template is compatible with the latest **stable** version of Android Studio.
+![image](https://github.com/kiranshamsundar/template1/assets/16544418/78aecbda-b2e4-41b0-b839-1831434d3765)
 
-![Screenshot](https://github.com/android/architecture-templates/raw/main/screenshots.png)
 
 ## Features
 
@@ -12,7 +11,6 @@ This template is compatible with the latest **stable** version of Android Studio
 * ViewModel, read+write
 * UI in Compose, list + write (Material3)
 * Navigation
-* 
 * Repository and data source
 * Kotlin Coroutines and Flow
 * Unit tests
